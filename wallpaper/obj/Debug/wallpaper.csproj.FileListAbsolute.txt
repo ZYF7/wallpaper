@@ -1,0 +1,66 @@
+C:\Users\ZYF\Source\Repos\wallpaper\wallpaper\bin\Debug\wallpaper.exe.config
+C:\Users\ZYF\Source\Repos\wallpaper\wallpaper\bin\Debug\wallpaper.exe
+C:\Users\ZYF\Source\Repos\wallpaper\wallpaper\bin\Debug\wallpaper.pdb
+C:\Users\ZYF\Source\Repos\wallpaper\wallpaper\obj\Debug\wallpaper.Form1.resources
+C:\Users\ZYF\Source\Repos\wallpaper\wallpaper\obj\Debug\wallpaper.Properties.Resources.resources
+C:\Users\ZYF\Source\Repos\wallpaper\wallpaper\obj\Debug\wallpaper.csproj.GenerateResource.cache
+C:\Users\ZYF\Source\Repos\wallpaper\wallpaper\obj\Debug\wallpaper.csproj.CoreCompileInputs.cache
+C:\Users\ZYF\Source\Repos\wallpaper\wallpaper\obj\Debug\wallpaper.exe
+C:\Users\ZYF\Source\Repos\wallpaper\wallpaper\obj\Debug\wallpaper.pdb
+C:\Users\ZYF\Source\Repos\wallpaper\wallpaper\obj\Debug\wallpaper.Form2.resources
+C:\Users\ZYF\Desktop\点击改变电脑壁纸\wallpaper\wallpaper\bin\Debug\wallpaper.exe.config
+C:\Users\ZYF\Desktop\点击改变电脑壁纸\wallpaper\wallpaper\bin\Debug\wallpaper.exe
+C:\Users\ZYF\Desktop\点击改变电脑壁纸\wallpaper\wallpaper\bin\Debug\wallpaper.pdb
+C:\Users\ZYF\Desktop\点击改变电脑壁纸\wallpaper\wallpaper\obj\Debug\wallpaper.csprojAssemblyReference.cache
+C:\Users\ZYF\Desktop\点击改变电脑壁纸\wallpaper\wallpaper\obj\Debug\wallpaper.Form1.resources
+C:\Users\ZYF\Desktop\点击改变电脑壁纸\wallpaper\wallpaper\obj\Debug\wallpaper.Form2.resources
+C:\Users\ZYF\Desktop\点击改变电脑壁纸\wallpaper\wallpaper\obj\Debug\wallpaper.Properties.Resources.resources
+C:\Users\ZYF\Desktop\点击改变电脑壁纸\wallpaper\wallpaper\obj\Debug\wallpaper.csproj.GenerateResource.cache
+C:\Users\ZYF\Desktop\点击改变电脑壁纸\wallpaper\wallpaper\obj\Debug\wallpaper.csproj.CoreCompileInputs.cache
+C:\Users\ZYF\Desktop\点击改变电脑壁纸\wallpaper\wallpaper\obj\Debug\wallpaper.exe
+C:\Users\ZYF\Desktop\点击改变电脑壁纸\wallpaper\wallpaper\obj\Debug\wallpaper.pdb
+C:\Users\ZYF\Desktop\wallpaper\wallpaper\bin\Debug\wallpaper.exe.config
+C:\Users\ZYF\Desktop\wallpaper\wallpaper\bin\Debug\wallpaper.exe
+C:\Users\ZYF\Desktop\wallpaper\wallpaper\bin\Debug\wallpaper.pdb
+C:\Users\ZYF\Desktop\wallpaper\wallpaper\obj\Debug\wallpaper.Form1.resources
+C:\Users\ZYF\Desktop\wallpaper\wallpaper\obj\Debug\wallpaper.Form2.resources
+C:\Users\ZYF\Desktop\wallpaper\wallpaper\obj\Debug\wallpaper.Properties.Resources.resources
+C:\Users\ZYF\Desktop\wallpaper\wallpaper\obj\Debug\wallpaper.csproj.GenerateResource.cache
+C:\Users\ZYF\Desktop\wallpaper\wallpaper\obj\Debug\wallpaper.csproj.CoreCompileInputs.cache
+C:\Users\ZYF\Desktop\wallpaper\wallpaper\obj\Debug\wallpaper.exe
+C:\Users\ZYF\Desktop\wallpaper\wallpaper\obj\Debug\wallpaper.pdb
+C:\Users\ZYF\Desktop\wallpaper\wallpaper\bin\Debug\wallpaper.exe.manifest
+C:\Users\ZYF\Desktop\wallpaper\wallpaper\bin\Debug\wallpaper.application
+C:\Users\ZYF\Desktop\wallpaper\wallpaper\obj\Debug\wallpaper.exe.manifest
+C:\Users\ZYF\Desktop\wallpaper\wallpaper\obj\Debug\wallpaper.application
+C:\Users\ZYF\Desktop\wallpaper\wallpaper\obj\Debug\wallpaper.csprojAssemblyReference.cache
+C:\Users\ZYF\Desktop\Dynamic wallpaper\wallpaper\wallpaper\bin\Debug\wallpaper.exe.config
+C:\Users\ZYF\Desktop\Dynamic wallpaper\wallpaper\wallpaper\bin\Debug\wallpaper.exe.manifest
+C:\Users\ZYF\Desktop\Dynamic wallpaper\wallpaper\wallpaper\bin\Debug\wallpaper.application
+C:\Users\ZYF\Desktop\Dynamic wallpaper\wallpaper\wallpaper\bin\Debug\wallpaper.exe
+C:\Users\ZYF\Desktop\Dynamic wallpaper\wallpaper\wallpaper\bin\Debug\wallpaper.pdb
+C:\Users\ZYF\Desktop\Dynamic wallpaper\wallpaper\wallpaper\obj\Debug\wallpaper.Form1.resources
+C:\Users\ZYF\Desktop\Dynamic wallpaper\wallpaper\wallpaper\obj\Debug\wallpaper.Form2.resources
+C:\Users\ZYF\Desktop\Dynamic wallpaper\wallpaper\wallpaper\obj\Debug\wallpaper.Properties.Resources.resources
+C:\Users\ZYF\Desktop\Dynamic wallpaper\wallpaper\wallpaper\obj\Debug\wallpaper.csproj.GenerateResource.cache
+C:\Users\ZYF\Desktop\Dynamic wallpaper\wallpaper\wallpaper\obj\Debug\wallpaper.csproj.CoreCompileInputs.cache
+C:\Users\ZYF\Desktop\Dynamic wallpaper\wallpaper\wallpaper\obj\Debug\wallpaper.exe.manifest
+C:\Users\ZYF\Desktop\Dynamic wallpaper\wallpaper\wallpaper\obj\Debug\wallpaper.application
+C:\Users\ZYF\Desktop\Dynamic wallpaper\wallpaper\wallpaper\obj\Debug\wallpaper.exe
+C:\Users\ZYF\Desktop\Dynamic wallpaper\wallpaper\wallpaper\obj\Debug\wallpaper.pdb
+C:\Users\ZYF\Desktop\Dynamic wallpaper\wallpaper\wallpaper\obj\Debug\wallpaper.csprojAssemblyReference.cache
+E:\文件集中分类站\Dynamic wallpaper（new）\wallpaper\wallpaper\bin\Debug\wallpaper.exe.config
+E:\文件集中分类站\Dynamic wallpaper（new）\wallpaper\wallpaper\bin\Debug\wallpaper.exe.manifest
+E:\文件集中分类站\Dynamic wallpaper（new）\wallpaper\wallpaper\bin\Debug\wallpaper.application
+E:\文件集中分类站\Dynamic wallpaper（new）\wallpaper\wallpaper\bin\Debug\wallpaper.exe
+E:\文件集中分类站\Dynamic wallpaper（new）\wallpaper\wallpaper\bin\Debug\wallpaper.pdb
+E:\文件集中分类站\Dynamic wallpaper（new）\wallpaper\wallpaper\obj\Debug\wallpaper.csprojAssemblyReference.cache
+E:\文件集中分类站\Dynamic wallpaper（new）\wallpaper\wallpaper\obj\Debug\wallpaper.Form1.resources
+E:\文件集中分类站\Dynamic wallpaper（new）\wallpaper\wallpaper\obj\Debug\wallpaper.Form2.resources
+E:\文件集中分类站\Dynamic wallpaper（new）\wallpaper\wallpaper\obj\Debug\wallpaper.Properties.Resources.resources
+E:\文件集中分类站\Dynamic wallpaper（new）\wallpaper\wallpaper\obj\Debug\wallpaper.csproj.GenerateResource.cache
+E:\文件集中分类站\Dynamic wallpaper（new）\wallpaper\wallpaper\obj\Debug\wallpaper.csproj.CoreCompileInputs.cache
+E:\文件集中分类站\Dynamic wallpaper（new）\wallpaper\wallpaper\obj\Debug\wallpaper.exe.manifest
+E:\文件集中分类站\Dynamic wallpaper（new）\wallpaper\wallpaper\obj\Debug\wallpaper.application
+E:\文件集中分类站\Dynamic wallpaper（new）\wallpaper\wallpaper\obj\Debug\wallpaper.exe
+E:\文件集中分类站\Dynamic wallpaper（new）\wallpaper\wallpaper\obj\Debug\wallpaper.pdb
